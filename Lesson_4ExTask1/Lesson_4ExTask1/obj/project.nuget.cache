@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "mogbWVjd5dLBbsZRExou0bPdxr0zrL2cJt0ZGJMH999PuCnDNQhHWyvgcCe7ckm3we++eGhVNQJ6PL6KZeAQRQ==",
+  "success": true,
+  "projectFilePath": "E:\\vs\\Lesson4\\Lesson_4ExTask1\\Lesson_4ExTask1\\Lesson_4ExTask1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vasil\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512",
+    "C:\\Users\\vasil\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\vasil\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\vasil\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

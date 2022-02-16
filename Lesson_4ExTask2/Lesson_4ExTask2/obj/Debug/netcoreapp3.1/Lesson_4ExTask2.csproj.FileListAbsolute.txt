@@ -1,0 +1,13 @@
+/Users/user/Projects/Lesson_4ExTask2/Lesson_4ExTask2/bin/Debug/netcoreapp3.1/Lesson_4ExTask2.deps.json
+/Users/user/Projects/Lesson_4ExTask2/Lesson_4ExTask2/bin/Debug/netcoreapp3.1/Lesson_4ExTask2.runtimeconfig.json
+/Users/user/Projects/Lesson_4ExTask2/Lesson_4ExTask2/bin/Debug/netcoreapp3.1/Lesson_4ExTask2.runtimeconfig.dev.json
+/Users/user/Projects/Lesson_4ExTask2/Lesson_4ExTask2/bin/Debug/netcoreapp3.1/Lesson_4ExTask2.dll
+/Users/user/Projects/Lesson_4ExTask2/Lesson_4ExTask2/bin/Debug/netcoreapp3.1/Lesson_4ExTask2.pdb
+/Users/user/Projects/Lesson_4ExTask2/Lesson_4ExTask2/obj/Debug/netcoreapp3.1/Lesson_4ExTask2.csproj.AssemblyReference.cache
+/Users/user/Projects/Lesson_4ExTask2/Lesson_4ExTask2/obj/Debug/netcoreapp3.1/Lesson_4ExTask2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Projects/Lesson_4ExTask2/Lesson_4ExTask2/obj/Debug/netcoreapp3.1/Lesson_4ExTask2.AssemblyInfoInputs.cache
+/Users/user/Projects/Lesson_4ExTask2/Lesson_4ExTask2/obj/Debug/netcoreapp3.1/Lesson_4ExTask2.AssemblyInfo.cs
+/Users/user/Projects/Lesson_4ExTask2/Lesson_4ExTask2/obj/Debug/netcoreapp3.1/Lesson_4ExTask2.csproj.CoreCompileInputs.cache
+/Users/user/Projects/Lesson_4ExTask2/Lesson_4ExTask2/obj/Debug/netcoreapp3.1/Lesson_4ExTask2.dll
+/Users/user/Projects/Lesson_4ExTask2/Lesson_4ExTask2/obj/Debug/netcoreapp3.1/Lesson_4ExTask2.pdb
+/Users/user/Projects/Lesson_4ExTask2/Lesson_4ExTask2/obj/Debug/netcoreapp3.1/Lesson_4ExTask2.genruntimeconfig.cache
